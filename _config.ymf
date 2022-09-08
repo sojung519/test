@@ -1,5 +1,5 @@
-title :  testrepository
-description : 연습용 
-show_download : true
+title: Cayman
+description: 연습용입니다.
+show_downloads: true
 google_analytics:
-theme : jeky11-theme-cayon
+theme: jekyll-theme-cayman
